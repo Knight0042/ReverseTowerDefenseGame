@@ -1,0 +1,12 @@
+Control List
+49 50 51 52 53
+Level Unlock Info
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+High Score Per Level
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Chosen Units
+0 1 2 -1 -1
+Unit Unlock Info
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1
+High Score Purchasing Balance
+0
